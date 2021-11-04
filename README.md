@@ -1,7 +1,7 @@
 
 <h1 align="center">deiby peralta</h1>
 
-### Hola 👋 soy [deiby peralta](https://deibyperaltaz  n.github.io)
+### Hola 👋 soy [deiby peralta](https://deibyperalta.github.io)
 > Ingeniero de sistemas
 
 
