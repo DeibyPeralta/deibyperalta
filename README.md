@@ -20,7 +20,7 @@ Entusiasta de la ciberseguridad, jugador de CTF, autodidacta
  
 ### OS de trabajo 🛠️
 
-| [<img src="https://github.com/deibyperalta/deibiyperalta/blob/main/parrot.png" alt="kali" width="24">](https://www.kali.org/) |
+| [<img src="https://github.com/deibyperalta/deibyperalta/blob/main/parrot.png" alt="parrot" width="24">](https://www.parrotsec.org/) |
 |---|
 
 ### Estadisticas de Github
