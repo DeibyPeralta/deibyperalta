@@ -1,8 +1,14 @@
 
 <h1 align="center">deiby peralta</h1>
 
-### Hola 👋 soy [deiby peralta](https://deibyperalta.github.io)
-> Ingeniero de sistemas
+<h1> Hola 👋 soy [deiby peralta](https://deibyperalta.github.io) </h1>
+
+<div align ="center">
+<h3> CyberSecurity Junior | Red-Team/Pentester | HTB Player </h3> 
+      <h4>My Hack The Box Profile</h4>
+  <a title="Hack The Box Profile" href="https://app.hackthebox.com/profile/657043">
+<img src="ht_status.png" alt="Hack The Box Profile"></a>
+</div>
 
 
 <img src="https://komarev.com/ghpvc/?username=deibyperalta" alt="deibyperalta" />
