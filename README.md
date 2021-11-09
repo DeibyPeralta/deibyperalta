@@ -1,7 +1,7 @@
 
 <h1 align="center">deiby peralta</h1>
 
-<h1> Hola 👋 soy [deiby peralta](https://deibyperalta.github.io) </h1>
+<h1> Hola 👋 soy deiby peralta </h1>
 
 <div align ="center">
 <h3> CyberSecurity Junior | Red-Team/Pentester | HTB Player </h3> 
