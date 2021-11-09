@@ -1,6 +1,4 @@
 
-<h1 align="center">deiby peralta</h1>
-
 <div align="center">
   <h1> Hello 👋 I'm Deiby Peralta </h1>
 </div>
@@ -8,8 +6,8 @@
 <div align ="center">
 <h3> CyberSecurity Junior | Red-Team/Pentester | HTB Player </h3> 
       <h4>My Hack The Box Profile</h4>
-  <a title="Hack The Box Profile" href="https://app.hackthebox.com/profile/657043">
-<img src="ht_status.png" alt="Hack The Box Profile"></a>
+  <a title="Try hack me Profile" href="https://tryhackme.com/p/andresPeres">
+<img src="ht_status.png" alt="Try hack me Profile"></a>
 </div>
 
 </br>
