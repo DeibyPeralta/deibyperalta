@@ -1,7 +1,9 @@
 
 <h1 align="center">deiby peralta</h1>
 
-<h1> Hola 👋 soy deiby peralta </h1>
+<div align="center">
+  <h1> Hello 👋 I'm Deiby Peralta </h1>
+</div>
 
 <div align ="center">
 <h3> CyberSecurity Junior | Red-Team/Pentester | HTB Player </h3> 
@@ -10,6 +12,9 @@
 <img src="ht_status.png" alt="Hack The Box Profile"></a>
 </div>
 
+</br>
+
+- Learning CyberSecurity (Pentesting) On HTB(HackTheBox) & THM(TryHackMe)
 
 <img src="https://komarev.com/ghpvc/?username=deibyperalta" alt="deibyperalta" />
 
