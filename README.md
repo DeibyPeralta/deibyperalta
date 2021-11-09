@@ -22,12 +22,10 @@
 
 <div align ="center">
   <a title="Bash">
-[<img src="https://raw.githubusercontent.com/DeibyPeralta/DeibyPeralta.github.io/main/assets/images/tratamiento-de-tty/Bash.png" alt="Bash" width="24">](https://www.gnu.org/software/bash/)
-</div>
-  
- <div align ="center">
+<img src="https://raw.githubusercontent.com/DeibyPeralta/DeibyPeralta.github.io/main/assets/images/tratamiento-de-tty/Bash.png" alt="Bash" width="24">
+
   <a title="Python">
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" width="38">](https://www.python.org/)
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" width="38">
 </div>
 
 | [<img src="https://raw.githubusercontent.com/DeibyPeralta/DeibyPeralta.github.io/main/assets/images/tratamiento-de-tty/Bash.png" alt="Bash" width="24">](https://www.gnu.org/software/bash/) Bash | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" width="38">](https://www.python.org/) Python
