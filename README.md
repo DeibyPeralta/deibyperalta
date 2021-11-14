@@ -5,7 +5,7 @@
 
 <div align ="center">
 <h3> CyberSecurity Junior | Red-Team/Pentester | HTB and TRYHACKME Player </h3> 
-      <h4>My Hack The Box Profile</h4>
+      <h4>My Tryhackme Profile</h4>
   <a title="Try hack me Profile">
 <img src="https://github.com/DeibyPeralta/deibyperalta/blob/master/Captura.PNG" alt="Try hack me Profile"></a>
 </div>
