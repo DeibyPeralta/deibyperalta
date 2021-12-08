@@ -20,7 +20,7 @@
 
 ### Lenguajes de programación 🌐
 
-| [<img src="https://raw.githubusercontent.com/DeibyPeralta/DeibyPeralta.github.io/main/assets/images/tratamiento-de-tty/Bash.png" alt="Bash" width="24">](https://www.gnu.org/software/bash/) Bash | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" width="38">](https://www.python.org/) Python
+| [<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/gnu_bash_logo_icon_170079.png" alt="Bash" width="24">](https://www.gnu.org/software/bash/) Bash | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" width="38">](https://www.python.org/) Python
 |---|---|
  
 ### OS de trabajo 🛠️
