@@ -15,7 +15,7 @@
 - Learning CyberSecurity (Pentesting) On HTB(HackTheBox) & THM(TryHackMe)
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=deibyperalta" alt="deibyperalta" />
+<img src="https://tryhackme.com/badge/744346" alt="deibyperalta" />
 </div>
 
 ### Lenguajes de programación 🌐
