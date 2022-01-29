@@ -9,7 +9,7 @@
   <a title="Try hack me Profile">
 <img src="https://github.com/DeibyPeralta/deibyperalta/blob/master/tryhackme.PNG" alt="Try hack me Profile"></a>
   
- <img src="https://tryhackme.com/badge/744346" alt="Try hack me Profile"></a>
+ <img src="https://tryhackme.com/badge/744346.png" alt="Try hack me Profile"></a>
   
   <script src="https://tryhackme.com/badge/744346"></script>
 </div>
