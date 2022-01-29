@@ -7,9 +7,8 @@
 <h3> CyberSecurity Junior | Red-Team/Pentester | HTB and TRYHACKME Player </h3> 
       <h4>My Tryhackme Profile</h4>
   <a title="Try hack me Profile">
-<img src="https://github.com/DeibyPeralta/deibyperalta/blob/master/tryhackme.PNG" alt="Try hack me Profile"></a>
+<img src="https://tryhackme-badges.s3.amazonaws.com/blanco404.png?3" alt="Try hack me Profile"></a>
   
-<img src="https://tryhackme-badges.s3.amazonaws.com/blanco404.png" alt="TryHackMe">
 </div>
 
 </br>
