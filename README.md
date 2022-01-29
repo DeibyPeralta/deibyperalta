@@ -8,6 +8,8 @@
       <h4>My Tryhackme Profile</h4>
   <a title="Try hack me Profile">
 <img src="https://github.com/DeibyPeralta/deibyperalta/blob/master/tryhackme.PNG" alt="Try hack me Profile"></a>
+  
+  <script src="https://tryhackme.com/badge/744346"></script>
 </div>
 
 </br>
