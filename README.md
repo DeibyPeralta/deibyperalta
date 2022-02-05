@@ -3,6 +3,9 @@
   <h1> Hello 👋 I'm Deiby Peralta </h1>
 </div>
 
+### WHO AM I
+I'm a curious person who love learning and improving his skills. ?
+
 <div align ="center">
 <h3> CyberSecurity Junior | Red-Team/Pentester | HTB and TRYHACKME Player </h3> 
       <h4>My Tryhackme Profile</h4>
@@ -19,10 +22,9 @@
 <img src="https://komarev.com/ghpvc/?username=deibyperalta" alt="deibyperalta" />
 </div>
 
-### Lenguajes de programación 🌐
-
-| [<img src="https://github.com/DeibyPeralta/deibyperalta/blob/master/Bash.png" alt="Bash" width="24">](https://www.gnu.org/software/bash/) Bash | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" width="38">](https://www.python.org/) Python
-|---|---|
+### Personal interests
+I am very curious and I am eager for knowledge.
+I'm currently learning cybersecurity to improve my skills and to bring more safety in businesses.
  
 ### OS de trabajo 🛠️
 
