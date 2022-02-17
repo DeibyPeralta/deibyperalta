@@ -5,8 +5,9 @@
 
 ### WHO AM I?
 
-junior full stack developer  
-> I'm a curious person who love learning and improving his skills. 
+junior full stack developer
+
+I'm a curious person who love learning and improving his skills. 
 
 <div align ="center">
 <h3> CyberSecurity Junior | Red-Team/Pentester | HTB and TRYHACKME Player </h3> 
