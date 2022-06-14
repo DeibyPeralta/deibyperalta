@@ -21,7 +21,7 @@ I am a full stack web developer from Colombia delivering solutions using HTML, C
 
 <h2>Languages, libraries and tools</h2>
 <div align="center">
-<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" title="angular" alt="angular" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="angular" alt="angular" width="40" height="40"/>
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="Node.js" alt="Node.js" width="40" height="40"/>
 
