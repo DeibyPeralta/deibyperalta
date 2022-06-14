@@ -43,3 +43,8 @@ I am a full stack web developer from Colombia delivering solutions using HTML, C
 <div align="center">
 Angular || Node || Docker || JavaScript || CSS3 || HTML5 || Android Studio || Nestjs 
 </div>
+
+<h3>Other skills</h3>
+<div >
+   Netlify || SOLID || KISS || Agile - Scrum || Agile - XP
+</div>
