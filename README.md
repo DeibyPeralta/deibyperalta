@@ -35,7 +35,7 @@ I am a full stack web developer from Colombia delivering solutions using HTML, C
   
  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
   
- <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
   
   
 </div>
