@@ -2,6 +2,8 @@
   <h1> Hello 👋 I'm Deiby Peralta </h1>
 </div>
 
+<div id="header" align="center">
+  
 <div id="badges">
 <a href="https://www.linkedin.com/in/deiby-steven-espinosa-peralta/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -31,9 +33,9 @@ I am a full stack web developer from Colombia delivering solutions using HTML, C
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
   
- <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
   
-   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
   
   
 </div>
