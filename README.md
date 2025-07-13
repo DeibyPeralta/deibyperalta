@@ -2,6 +2,9 @@
   <h1> Hello 👋 I'm Deiby Peralta </h1>
 </div>
 
+#### 🏆 GitHub Trophies
+[![Github Trophies](https://github-profile-trophy.vercel.app/?username=DeibyPeralta&theme=monokai&no-frame=true&no-bg=true&margin-w=4)](#)
+  
 <div id="header" align="center">
   
 <div id="badges">
@@ -22,23 +25,14 @@ I am a full stack web developer from Colombia delivering solutions using HTML, C
 <h2>Languages, libraries and tools</h2>
 <div align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="angular" alt="angular" width="40" height="40"/>
-
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="Node.js" alt="Node.js" width="40" height="40"/>
-
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="40" height="40"/>
-
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
-
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
-  
- <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
-  
- <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
-  
-   <img src="https://camo.githubusercontent.com/dbe944dadb1ba77b539d3e12cf20e400b90d8097a42e67a9389227d75acba4c4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e75782d4643433632343f7374796c653d666c61742d737175617265266c6f676f3d6c696e7578266c6f676f436f6c6f723d626c61636b" title="HTML5" alt="HTML5" width="60" height="40"/>
-  
+<img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
+<img src="https://camo.githubusercontent.com/dbe944dadb1ba77b539d3e12cf20e400b90d8097a42e67a9389227d75acba4c4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e75782d4643433632343f7374796c653d666c61742d737175617265266c6f676f3d6c696e7578266c6f676f436f6c6f723d626c61636b" title="HTML5" alt="HTML5" width="60" height="40"/>  
 </div>
 
 <div align="center">
