@@ -17,7 +17,7 @@
 I'm a passionate Full Stack Developer and Junior Cybersecurity Analyst from **Colombia**, with experience in:
 
 - **Web development** using Angular, Node.js, NestJS, and SQL.
-- **Infrastructure monitoring** with tools like Zabbix and cloud platforms.
+- Infrastructure **monitoring** with tools like **Zabbix** and **cloud platforms**.
 - Following **SOLID**, **KISS**, and **clean architecture** principles.
 - Advocating for **agile methodologies** (Scrum, XP), CI/CD and team collaboration.
 > 💡 *"Delivering code is not the end, maintaining quality and clarity is the real challenge."*
