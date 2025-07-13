@@ -1,45 +1,176 @@
 <div align="center">
-  <h1> Hello 👋 I'm Deiby Peralta </h1>
+  <h1>👋 Hello, I'm Deiby Peralta</h1>
+  <h3>Full Stack Web Developer | Cybersecurity Jr. Analyst | Linux Enthusiast</h3>
+
+  <a href="https://www.linkedin.com/in/deiby-steven-espinosa-peralta/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:deibysp39@gmail.com">
+    <img src="https://img.shields.io/badge/email-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Email Badge"/>
+  </a>
 </div>
 
-#### 🏆 GitHub Trophies
+---
+
+### 🧑‍💻 About Me
+
+I'm a passionate Full Stack Developer and Junior Cybersecurity Analyst from **Colombia**, with experience in:
+
+- **Web development** using Angular, Node.js, NestJS, and SQL.
+- **Infrastructure monitoring** with tools like Zabbix and cloud platforms.
+- Following **SOLID**, **KISS**, and **clean architecture** principles.
+- Advocating for **agile methodologies** (Scrum, XP), CI/CD and team collaboration.
+> 💡 *"Delivering code is not the end, maintaining quality and clarity is the real challenge."*
+
+- **Cybersecurity**: vulnerability assessment with **Nessus**, **Nmap**, **OWASP**, **Burp Suite**, **Metasploit**.
+- **Scripting & automation** using **Python**, **Bash**, and **PowerShell**.
+> 🎯 *Committed to clean code, security best practices, and continuous learning.*
+
+---
+
+### 🏆 GitHub Trophies
+
 [![Github Trophies](https://github-profile-trophy.vercel.app/?username=DeibyPeralta&theme=monokai&no-frame=true&no-bg=true&margin-w=4)](#)
-  
-<div id="header" align="center">
-  
-<div id="badges">
-<a href="https://www.linkedin.com/in/deiby-steven-espinosa-peralta/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
-<a href="mailto:deibysp39gmail.com">
-<img src="https://img.shields.io/badge/email-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Email Badge"/>
-</a>
-</div>
-</div>
+
+---
+<h3 align="center">🛠️ Languages, Libraries & Tools</h3>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" width="40" alt="Angular"/><br/>
+      <strong>Angular</strong>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript"/><br/>
+      <strong>TypeScript</strong>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5"/><br/>
+      <strong>HTML5</strong>
+    </td>
+    <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" alt="CSS3"/><br/>
+      <strong>CSS3</strong>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap"/><br/>
+      <strong>Bootstrap</strong>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="Android Studio"/><br/>
+      <strong>Android</strong>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="JavaScript"/><br/>
+      <strong>JavaScript</strong>
+    </td>
+  </tr>
+
+  <!-- Fila 2: Backend -->
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git"/><br/>
+      <strong>Git</strong>
+    </td>
+    <td align="center">
+      <img src="https://www.svgrepo.com/show/452075/node-js.svg" width="40" alt="Node.js"/><br/>
+      <strong>Node</strong>
+    </td>
+    <td align="center">
+      <img src="https://www.svgrepo.com/show/452091/python.svg" height="40" alt="Linux"/><br/>
+      <strong>Python</strong>
+    </td>
+    <td align="center">
+      <img src="https://www.svgrepo.com/show/448221/docker.svg" height="40" alt="Docker"/><br/>
+      <strong>Docker</strong>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL"/><br/>
+      <strong>PostgreSQL</strong>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL"/><br/>
+      <strong>MySQL</strong>
+    </td>    
+    <td align="center">
+      <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" alt="SQL Server"/><br/>
+      <strong>SQL Server</strong>
+    </td>    
+  </tr>
+
+  <!-- Fila 3: Seguridad Informática -->
+  <tr>
+    <td align="center">
+      <img src="https://www.svgrepo.com/show/448236/linux.svg" width="40" alt="Parrot OS"/><br/>
+      <strong>linux OS</strong>
+    </td>
+    <td align="center">
+      <img src="https://www.svgrepo.com/show/353478/bash-icon.svg" width="40" alt="Bash"/><br/>
+      <strong>Bash</strong>
+    </td>
+    <td align="center">
+      <img src="https://nmap.org/images/nmap-project-logo.png" width="40" alt="Nmap"/><br/>
+      <strong>Nmap</strong>
+    </td>
+    <td align="center">
+      <img src="https://e7.pngegg.com/pngimages/884/566/png-clipart-nessus-vulnerability-scanner-tenable-computer-security-logo-professional-text-logo.png" width="40" alt="Nessus"/><br/>
+      <strong>Nessus</strong>
+    </td>
+    <td align="center">
+      <img src="https://e7.pngegg.com/pngimages/80/683/png-clipart-owasp-web-application-security-project-world-wide-web-web-application-electric-blue.png" width="40" alt="OWASP"/><br/>
+      <strong>OWASP</strong>
+    </td>
+    <td align="center">
+      <img src="https://dashboard.snapcraft.io/site_media/appmedia/2022/08/metasploit-framework-logo.svg.png" height="40" alt="Metasploit"/><br/>
+      <strong>Metasploit</strong>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="PowerShell"/><br/>
+      <strong>PowerShell</strong>
+    </td>
+  </tr>
+</table>
 
 
-### WHO AM I?
-I am a full stack web developer from Colombia delivering solutions using HTML, CSS, JavaScript, Node.js, Nestjs, Angular, SQL server, SQL. I am a proactive, dynamic and responsible person, I like to work in a team and I consider it very important to make the best project, I am a follower of good practices and agile methodologies, as well as a good self-taught student and with many win to learn and train in any technology that can help me to be a better programmer and developer.
+---
+
+<h3 align="center">🧠 Other Relevant Skills</h3>
+
+<table align="center">
+  <tr>
+    <td align="center"><strong>Cybersecurity Fundamentals</strong></td>
+    <td align="center"><strong>Penetration Testing</strong></td>
+    <td align="center"><strong>Nessus</strong></td>
+    <td align="center"><strong>Nmap</strong></td>
+    <td align="center"><strong>Burp Suite</strong></td>
+    <td align="center"><strong>OWASP Top 10</strong></td>
+    <td align="center"><strong>Metasploit</strong></td>
+  </tr>        
+  </tr>
+  <tr>
+    <td align="center"><strong>Netlify</strong></td>
+    <td align="center"><strong>CI/CD</strong></td>
+    <td align="center"><strong>Security Monitoring</strong></td>
+    <td align="center"><strong>Linux Hardening</strong></td>  
+    <td align="center"><strong>PowerShell Scripting</strong></td>
+    <td align="center"><strong>Python for Automation</strong></td>
+    <td align="center"><strong>Zabbix Monitoring</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Clean Architecture</strong></td>
+    <td align="center"><strong>SOLID Principles</strong></td>
+    <td align="center"><strong>KISS</strong></td>
+    <td align="center"><strong>Agile - Scrum</strong></td>
+    <td align="center"><strong>Agile - XP</strong></td>
+    <td align="center"><strong>Code Reviews</strong></td>
+    <td align="center"><strong>Pair Programming</strong></td>
+  </tr>
 
 
-<h2>Languages, libraries and tools</h2>
-<div align="center">
-<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="angular" alt="angular" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="Node.js" alt="Node.js" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/> 
-<img src="https://github.com/devicons/devicon/tree/master/icons/bash/bash-original.svg" width="40" height="40"alt="Bash logo" />
-<img src="https://camo.githubusercontent.com/dbe944dadb1ba77b539d3e12cf20e400b90d8097a42e67a9389227d75acba4c4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e75782d4643433632343f7374796c653d666c61742d737175617265266c6f676f3d6c696e7578266c6f676f436f6c6f723d626c61636b" title="HTML5" alt="HTML5" width="60" height="40"/>  
-</div>
+</table>
 
-<div align="center">
-Angular || Node || Docker || JavaScript || CSS3 || HTML5 || Android Studio || Bash || Linux 
-</div>
 
-<h3>Other skills</h3>
-<div >
-   Netlify || SOLID || KISS || Agile - Scrum || Agile - XP
-</div>
+> ✅ Security-aware developer blending development and operations skills to build reliable, efficient, and secure systems. 
+
+
