@@ -1,12 +1,15 @@
 <div align="center">
   <h1>👋 Hello, I'm Deiby Peralta</h1>
-  <h3>Full Stack Web Developer | Cybersecurity Jr. Analyst | Linux Enthusiast</h3>
+  <h3>Full Stack Web Developer | Ethical Hacker Jr. </h3>
 
   <a href="https://www.linkedin.com/in/deiby-steven-espinosa-peralta/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:deibysp39@gmail.com">
     <img src="https://img.shields.io/badge/email-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Email Badge"/>
+  </a>
+  <a href="[https://whatsapp.com/channel/0029VbAiqVMKLaHjg5J1Nm2F](https://api.whatsapp.com/send?phone=573227918995&text=Hola)" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </div>
 
