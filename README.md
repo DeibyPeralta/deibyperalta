@@ -8,7 +8,7 @@
   <a href="mailto:deibysp39@gmail.com">
     <img src="https://img.shields.io/badge/email-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Email Badge"/>
   </a>
-  <a href="[https://whatsapp.com/channel/0029VbAiqVMKLaHjg5J1Nm2F](https://api.whatsapp.com/send?phone=573227918995&text=Hola)" target="_blank">
+  <a href="https://api.whatsapp.com/send?phone=573227918995&text=Hola, Un gusto contactarte soy..." target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </div>
